@@ -1,5 +1,4 @@
 # Tema1-POO-QuizzesGenerator
-Tema1 - Programare Orientata pe Obiecte
 
 Tema presupune implementarea unui generator simplu de chestionare. Utilizatorii acestui program se vor autentifica în aplicație la orice apel din sistem, în afară de acela de creare de utilizator. Acestia pot crea întrebări (cu un singur răspuns corect, sau cu mai multe răspunsuri corecte), crea chestionare în baza întrebărilor adăugate anterior și vor putea răspunde chestionarelor celorlalți, doar o singură dată.
 
